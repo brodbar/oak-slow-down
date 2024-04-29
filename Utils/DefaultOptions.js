@@ -2,7 +2,7 @@ import { MapStore } from "../Stores/MapStore.js";
 
 const DefaultOptions =
 {
-    WindowMs: 5 * 1e3,
+    WindowMs: 5 * 1000,
     DelayMs: () => 500,
     DelayAfter: 3,
     Store: new MapStore()
