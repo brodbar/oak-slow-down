@@ -13,7 +13,7 @@
 ## Usage
 
 ```js
-import { SlowDown } from "https://deno.land/x/oak_slow_down/mod.js";
+import { SlowDown } from "https://deno.land/x/oak_slow_down@v0.1.0-rc1/mod.js";
 
 // Below are default settings
 const slowDown = SlowDown({
