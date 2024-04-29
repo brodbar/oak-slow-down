@@ -1,5 +1,4 @@
-<iframe src="https://ghbtns.com/github-btn.html?user=brodbar&repo=oak-slow-down&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
-<iframe src="https://ghbtns.com/github-btn.html?user=brodbar&repo=oak-slow-down&type=fork&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+[![Github](https://img.shields.io/badge/Github-Repository-181717?logo=github&style=for-the-badge)](https://github.com/brodbar/oak-slow-down)
 [![deno.land](https://shields.io/badge/deno.land-gray?logo=deno&style=for-the-badge)](https://deno.land/x/oak_slow_down)
 
 # oak-slow-down
